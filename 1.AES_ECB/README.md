@@ -1,6 +1,9 @@
-AES with ECB
+# AES with ECB
 
+#### Fundamental concepts
 Cypher object: Works on bytes
 Cypher text (bytes)
 Base64: For storable format base64 string (bytes)
 UTF8: String -> Byte/ Byte -> String
+
+> Encrpyts evey blocks with single key

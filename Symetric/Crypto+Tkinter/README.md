@@ -1,7 +1,7 @@
-Python program with tkinter GUI
+# Python program with tkinter GUI
 
-AES-CTR project
-
+#### AES-CTR project
+![1](https://github.com/Prayud-Gurung/Cryptography/blob/main/Images/AES_CTR_Tkinter.png)
 User can enter text and password to encrypt the text.
 To decrypt the text user must enter the same password.
 Also allows user to save the encrypted data in a file
@@ -17,7 +17,8 @@ Possible upgrades to the project
 3. Using PBKDF2 in place of sha256 to generate keys
 4. Improvement in proper error handling
 
-AES-GCM project
+#### AES-GCM project
+![2](https://github.com/Prayud-Gurung/Cryptography/blob/main/Images/AES_GCM_Tkinter.png)
 User select file to be encrypted.
 To decrypt user needs to provide username and password
 User can then save the encrypted file
